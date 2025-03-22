@@ -10,18 +10,18 @@
 <p>In this project implemented: CSS Flexbox & Grid,Adaptive Design,CSS animations & transitions,Google Fonts,CSS Media Queries,Mobile-first approach,Modal window...</p>
 
 <p align="center">
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/apple-iphone-se-black-mockup/Screenshot%202025-03-22%20at%2015.39.35-portrait.png" width="190" title="Web Studio Mobile View">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images1.jpg/Screenshot%202025-03-22%20at%2015.39.35-portrait.png" width="190" title="Web Studio Mobile View">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/Tablet.png" width="300" title="Web Studio Tablet View">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images1.jpg/Tablet.png" width="300" title="Web Studio Tablet View">
   &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Laptop.png" width="700" title="Web Studio Desktop View">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images1.jpg/Laptop.png" width="700" title="Web Studio Desktop View">
 </p>
 
 ---
 
 ### 🎥 Demo
 <p align="center">
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/Untitled%20design.gif" width="700" title="Web Studio Demo">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images1.jpg/Untitled%20design.gif" width="700" title="Web Studio Demo">
 </p>
 
 ---
@@ -70,9 +70,9 @@
 
 
 <div align="center">
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies%3Alaptop/Screenshot%202025-03-22%20at%2019.16.51-front.png" width="450" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies%3Alaptop/Screenshot%202025-03-22%20at%2019.17.47-front.png" width="450" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies%3Alaptop/Screenshot%202025-03-22%20at%2019.18.11-front.png" width="450"  title="Twitter clone">
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.16.51-front.png" width="450" title="Movie finder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.17.47-front.png" width="450" title="Movie finder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.18.11-front.png" width="450"  title="Movie finder">
 </div>
 
  
@@ -81,12 +81,10 @@
 <p align="left"> <a href="https://github.com/DanikJA/goit-react-hw-04-images"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120" ></a>
 </p>
 
-**Image finder**
-
 <p align="center">
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Image%20finder/Screenshot%202025-03-22%20at%2020.19.56-portrait.png" width="200" title="Image finder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Image%20finder/Screenshot%202025-03-22%20at%2020.01.06-portrait.png" width="400"  title="Image finder">
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Image%20finder/Screenshot%202025-03-22%20at%2020.01.44-front.png" width="800"  title="Image finder">
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Image%20finder/Screenshot%202025-03-22%20at%2020.19.56-portrait.png" width="190" title="Image finder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Image%20finder/Screenshot%202025-03-22%20at%2020.01.06-portrait.png" width="300"  title="Image finder">
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Image%20finder/Screenshot%202025-03-22%20at%2020.01.44-front.png" width="700"  title="Image finder">
 </p>
 
 ## Thanks for stopping by!
@@ -94,4 +92,4 @@
 # Contact Info:
 
 - Email: danik.kyrteu2@gmail.com
-- LinkedIn[Daniel Kurtey](https://www.linkedin.com/in/daniel-kurtey-442643312/)
+- LinkedIn:[Daniel Kurtey](https://www.linkedin.com/in/daniel-kurtey-442643312/)
