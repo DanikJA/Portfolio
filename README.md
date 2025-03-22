@@ -94,4 +94,4 @@
 # Contact Info:
 
 - Email: danik.kyrteu2@gmail.com
-- LinkedIn:(https://www.linkedin.com/in/daniel-kurtey-442643312/)
+- LinkedIn[Daniel Kurtey](https://www.linkedin.com/in/daniel-kurtey-442643312/)
