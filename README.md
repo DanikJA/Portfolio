@@ -6,7 +6,8 @@
   </a>
 </p>
 
-**Web Studio** – навчальний проєкт, створений у процесі навчання для практичного закріплення знань з **HTML, CSS, SASS, BEM**.
+**Web Studio** –the project is built using HTML5, CSS3 (SASS, BEM)**.
+<p>In this project implemented: CSS Flexbox & Grid,Adaptive Design,CSS animations & transitions,Google Fonts,CSS Media Queries,Mobile-first approach,Modal window...</p>
 
 <p align="center">
   <img src="https://github.com/DanikJA/Portfolio/blob/main/apple-iphone-se-black-mockup/Screenshot%202025-03-22%20at%2015.39.35-portrait.png" width="190" title="Web Studio Mobile View">
