@@ -14,7 +14,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/DanikJA/Portfolio/blob/main/Tablet.png" width="300" title="Web Studio Tablet View">
   &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Screenshot%202025-03-22%20at%2014.41.23-front.png" width="700" title="Web Studio Desktop View">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Laptop.png" width="700" title="Web Studio Desktop View">
 </p>
 
 ---
@@ -27,30 +27,35 @@
 ---
 
 # [Phonebook](https://danikja.github.io/goit-react-hw-08-phonebook/)
-<p align="left"> <a href="https://github.com/DanikJA/goit-react-hw-08-phonebook"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+
+<p align="left">
+  <a href="https://github.com/DanikJA/goit-react-hw-08-phonebook">
+    <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120">
+  </a>
 </p>
-GitHub Profiles is an MVC practice project.
-GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
-The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
 
-* Implemented programmatically without the use of storyboards.
-* No libraries used.
-* Support for light & dark mode. 
-* Model-View-Controller architecture.
-* Custom UIAlerts.
-* Use DiffableDataSource.
-* Implemented pagination on the search screen.
-* Image caching.
-* Use UserDefaults for saving favorite users.
-* REST API.
+**Phonebook** – application allows users to register and log in, add, store, filter, and delete contacts.
+ Used tools: **React, Redux Toolkit, Routes, Hooks, REST API, Formik, Yup**.
 
+###   Key Features:
+- **User authentication and registration** 
+- **Adding, deleting, and filtering contacts**
+- **Storing contacts on a server via REST API**
+- **Validation of input data using Formik and Yup**
+- **Navigation implementation with React Router**
+- **Loading state display (React Spinners, Notiflix)** 
+<br><br> 
 <p align="center">
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Contacts/Screenshot%202025-03-22%20at%2016.49.59-portrait.png" width="400"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Contacts/Screenshot%202025-03-22%20at%2016.44.38-portrait.png" width="400" title="GitHub Profiles">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Contacts/Screenshot%202025-03-22%20at%2016.49.59-portrait.png" width="400" title="Phonebook Mobile View">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Contacts/Screenshot%202025-03-22%20at%2016.44.38-portrait.png" width="400" title="Phonebook Desktop View">
 </p>
 
-# [Twitter clone](https://github.com/skovalysh/SkovTwitter)
-<p align="left"> <a href="https://github.com/skovalysh/SkovTwitter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+---
+
+
+# [Movie finder](https://danikja.github.io/goit-react-hw-05-movies/)
+<p align="left"> <a href="https://github.com/DanikJA/goit-react-hw-05-movies"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120" ></a>
 </p>
 Twitter clone is an MVVM (no RxSwift) practice project.
 Twitter clone is a fully functional clone of the Twitter application. Users can sign up / sign in. Post a tweet and add a comment. Follow and unfollow users. Receive notifications about new mentions and tweets in the "Notification tab".
