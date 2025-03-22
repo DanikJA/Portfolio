@@ -1,4 +1,4 @@
-# [Web Studio](https://github.com/DanikJA/goit-markup-hw-08)
+# [Web Studio](https://danikja.github.io/goit-markup-hw-08/)
 
 <p align="left">
   <a href="https://github.com/DanikJA/goit-markup-hw-08">
