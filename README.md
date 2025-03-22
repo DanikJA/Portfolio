@@ -4,7 +4,7 @@
 </p>
 Web Studio project created during the training for practical consolidation of knowledge on [HTML,CSS].
 
-<p align="">
+<p align="centert">
 <img src="https://github.com/DanikJA/Portfolio/blob/main/apple-iphone-se-black-mockup/Screenshot%202025-03-22%20at%2015.39.35-portrait.png" width="190" title="ARKit Face Tracking feature">
   <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Screenshot%202025-03-22%20at%2014.41.23-front.png" width="600" hight="400"  title="ARKit Face Tracking feature">
    <img src="https://github.com/DanikJA/Portfolio/blob/main/Untitled%20design.gif" width="400" hight="400"  title="ARKit Face Tracking feature">
