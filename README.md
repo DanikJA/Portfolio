@@ -90,5 +90,5 @@ Run with Firebase backend.
 
 # Contact Info:
 
-- Email: decodealex1@gmail.com
-- LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
+- Email: danik.kyrteu2@gmail.com
+- LinkedIn:(https://www.linkedin.com/in/daniel-kurtey-442643312/)
