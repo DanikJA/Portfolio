@@ -14,7 +14,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/DanikJA/Portfolio/blob/main/Tablet.png" width="300" title="Web Studio Tablet View">
   &nbsp;&nbsp;&nbsp
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Screenshot%202025-03-22%20at%2014.41.23-front.png" width="700" title="Web Studio Desktop View">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Laptop.png" width="700" title="Web Studio Desktop View">
 </p>
 
 ---
