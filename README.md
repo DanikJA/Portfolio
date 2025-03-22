@@ -6,27 +6,28 @@
   </a>
 </p>
 
-**Web Studio** – навчальний проєкт, створений у процесі навчання для практичного закріплення знань з **HTML, CSS, SASS, BEM**.
+**Web Studio** –the project is built using HTML5, CSS3 (SASS, BEM)**.
+<p>In this project implemented: CSS Flexbox & Grid,Adaptive Design,CSS animations & transitions,Google Fonts,CSS Media Queries,Mobile-first approach,Modal window...</p>
 
 <p align="center">
   <img src="https://github.com/DanikJA/Portfolio/blob/main/apple-iphone-se-black-mockup/Screenshot%202025-03-22%20at%2015.39.35-portrait.png" width="190" title="Web Studio Mobile View">
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/DanikJA/Portfolio/blob/main/Tablet.png" width="300" title="Web Studio Tablet View">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Screenshot%202025-03-22%20at%2014.41.23-front.png" width="500" title="Web Studio Desktop View">
+  &nbsp;&nbsp;&nbsp
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Screenshot%202025-03-22%20at%2014.41.23-front.png" width="700" title="Web Studio Desktop View">
 </p>
 
 ---
 
 ### 🎥 Demo
 <p align="center">
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/Untitled%20design.gif" width="600" title="Web Studio Demo">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Untitled%20design.gif" width="700" title="Web Studio Demo">
 </p>
 
 ---
 
-# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
-<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Phonebook](https://danikja.github.io/goit-react-hw-08-phonebook/)
+<p align="left"> <a href="https://github.com/DanikJA/goit-react-hw-08-phonebook"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 GitHub Profiles is an MVC practice project.
 GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
@@ -44,7 +45,8 @@ The user can save his favorite GitHub accounts and have access to them through t
 * REST API.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863341-042d6e00-c90f-11ea-96c9-a65b33884e89.jpg" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863343-07285e80-c90f-11ea-820a-86d43226f652.jpg" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863346-08598b80-c90f-11ea-9c24-d60536cf5220.jpg" width="230" title="GitHub Profiles">
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Contacts/Screenshot%202025-03-22%20at%2016.49.59-portrait.png" width="400"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Contacts/Screenshot%202025-03-22%20at%2016.44.38-portrait.png" width="400" title="GitHub Profiles">
 </p>
 
 # [Twitter clone](https://github.com/skovalysh/SkovTwitter)
