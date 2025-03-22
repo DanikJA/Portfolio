@@ -70,9 +70,9 @@
 
 
 <div align="center">
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.16.51-front.png" width="450" title="Movie finder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.17.47-front.png" width="450" title="Movie finder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.18.11-front.png" width="450"  title="Movie finder">
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.16.51-front.png" width="370" title="Movie finder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.17.47-front.png" width="370" title="Movie finder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/DanikJA/Portfolio/blob/main/Movies/Screenshot%202025-03-22%20at%2019.18.11-front.png" width="370"  title="Movie finder">
 </div>
 
  
