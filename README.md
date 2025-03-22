@@ -6,7 +6,7 @@
   </a>
 </p>
 
-**Web Studio** –the project is built using HTML5, CSS3 (SASS, BEM)**.
+**Web Studio** project is built using HTML5, CSS3 (SASS, BEM).
 <p>In this project implemented: CSS Flexbox & Grid,Adaptive Design,CSS animations & transitions,Google Fonts,CSS Media Queries,Mobile-first approach,Modal window...</p>
 
 <p align="center">
