@@ -1,11 +1,12 @@
 
 # [Web Studio](https://github.com/DanikJA/goit-markup-hw-08)
-<p align="left"> <a href="https://github.com/DanikJA/goit-markup-hw-08"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+<p align="left"> <a href="https://github.com/DanikJA/goit-markup-hw-08"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120" ></a>
 </p>
 Web Studio project created during the training for practical consolidation of knowledge on [HTML,CSS].
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/92813310-ce888c80-f375-11ea-9f74-11e9f95f5596.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92813328-d5170400-f375-11ea-87dc-fc54568e07f3.gif" width="230"  title="ARKit Face Tracking feature">
+<img src="https://github.com/DanikJA/Portfolio/blob/main/apple-iphone-se-black-mockup/Screenshot%202025-03-22%20at%2015.39.35-portrait.png" width="190" title="ARKit Face Tracking feature">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Untitled%20design.gif" width="600" hight="400"  title="ARKit Face Tracking feature">
 </p>
 
 # [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
