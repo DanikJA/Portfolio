@@ -1,14 +1,29 @@
+# [Web Studio](https://danikja.github.io/goit-markup-hw-08/)
 
-# [Web Studio](https://github.com/DanikJA/goit-markup-hw-08)
-<p align="left"> <a href="https://github.com/DanikJA/goit-markup-hw-08"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120" ></a>
+<p align="left">
+  <a href="https://github.com/DanikJA/goit-markup-hw-08">
+    <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120">
+  </a>
 </p>
-Web Studio project created during the training for practical consolidation of knowledge on [HTML,CSS].
 
-<p align="centert">
-<img src="https://github.com/DanikJA/Portfolio/blob/main/apple-iphone-se-black-mockup/Screenshot%202025-03-22%20at%2015.39.35-portrait.png" width="190" title="ARKit Face Tracking feature">
-  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Screenshot%202025-03-22%20at%2014.41.23-front.png" width="600" hight="400"  title="ARKit Face Tracking feature">
-   <img src="https://github.com/DanikJA/Portfolio/blob/main/Untitled%20design.gif" width="400" hight="400"  title="ARKit Face Tracking feature">
+**Web Studio** – навчальний проєкт, створений у процесі навчання для практичного закріплення знань з **HTML, CSS, SASS, BEM**.
+
+<p align="center">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/apple-iphone-se-black-mockup/Screenshot%202025-03-22%20at%2015.39.35-portrait.png" width="190" title="Web Studio Mobile View">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Tablet.png" width="300" title="Web Studio Tablet View">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Images.jpg/Screenshot%202025-03-22%20at%2014.41.23-front.png" width="500" title="Web Studio Desktop View">
 </p>
+
+---
+
+### 🎥 Demo
+<p align="center">
+  <img src="https://github.com/DanikJA/Portfolio/blob/main/Untitled%20design.gif" width="600" title="Web Studio Demo">
+</p>
+
+---
 
 # [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
 <p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
@@ -75,5 +90,5 @@ Run with Firebase backend.
 
 # Contact Info:
 
-- Email: decodealex1@gmail.com
-- LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
+- Email: danik.kyrteu2@gmail.com
+- LinkedIn:(https://www.linkedin.com/in/daniel-kurtey-442643312/)
