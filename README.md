@@ -1,3 +1,6 @@
+
+<a href="https://drive.google.com/file/d/1n_vpEwJSXMWsaXhqZjs6Vl-bE1RxuK0N/view?usp=sharing" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:kovalyshyn.alex@gmail.com"><img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/decodealex/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
 # [Web Studio](https://danikja.github.io/goit-markup-hw-08/)
 
 <p align="left">
