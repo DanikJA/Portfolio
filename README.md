@@ -1,5 +1,5 @@
 
-<a href="https://drive.google.com/file/d/1wOvWzrr0BjUyeb4qf88Ri9t3BmRb50lU/view?usp=sharing" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1VLfkFDdeZShDVwn3xDtOU3P0B4_IagEp/view?usp=sharing" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:danik.kyrteu2@gmail.com"><img src="https://img.shields.io/badge/Email- Daniel-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/daniel-kurtey-442643312/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Kurtey-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
