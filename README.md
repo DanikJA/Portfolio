@@ -3,7 +3,7 @@
 <a href="mailto:danik.kyrteu2@gmail.com"><img src="https://img.shields.io/badge/Email- Daniel-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/daniel-kurtey-442643312/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Kurtey-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-# [Web Studio](https://github.com/DanikJA/WebStudio)
+# [Web Studio](https://danikja.github.io/WebStudio/)
 
 <p align="left">
   <a href="https://danikja.github.io/WebStudio/">
