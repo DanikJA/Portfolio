@@ -3,10 +3,10 @@
 <a href="mailto:danik.kyrteu2@gmail.com"><img src="https://img.shields.io/badge/Email- Daniel-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/daniel-kurtey-442643312/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Kurtey-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-# [Web Studio](https://danikja.github.io/goit-markup-hw-08/)
+# [Web Studio](https://github.com/DanikJA/WebStudio)
 
 <p align="left">
-  <a href="https://github.com/DanikJA/goit-markup-hw-08">
+  <a href="https://danikja.github.io/WebStudio/">
     <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120">
   </a>
 </p>
@@ -31,10 +31,10 @@
 
 ---
 
-# [Phonebook](https://danikja.github.io/goit-react-hw-08-phonebook/)
+# [Phonebook](https://danikja.github.io/Phonebook/)
 
 <p align="left">
-  <a href="https://github.com/DanikJA/goit-react-hw-08-phonebook">
+  <a href="https://github.com/DanikJA/Phonebook">
     <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120">
   </a>
 </p>
@@ -60,8 +60,8 @@
 ---
 
 
-# [Movie finder](https://danikja.github.io/goit-react-hw-05-movies/)
-<p align="left"> <a href="https://github.com/DanikJA/goit-react-hw-05-movies"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120" ></a>
+# [Movie finder](https://danikja.github.io/Movies/)
+<p align="left"> <a href="https://github.com/DanikJA/Movies"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="120" ></a>
 </p>
 <p>Movies App is a modern web application for browsing trending movies, searching for films, and viewing detailed movie information, including cast and reviews. Built with React, React Router, Axios, and Styled Components, it provides a seamless and dynamic user experience.</p>
 
